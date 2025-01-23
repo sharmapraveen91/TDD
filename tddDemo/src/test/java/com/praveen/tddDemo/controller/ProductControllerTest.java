@@ -1,7 +1,6 @@
-package com.praveen.tddDemo;
+package com.praveen.tddDemo.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.praveen.tddDemo.controller.ProductController;
 import com.praveen.tddDemo.exceptions.ProductNotFoundException;
 import com.praveen.tddDemo.model.Product;
 import com.praveen.tddDemo.service.ProductService;
